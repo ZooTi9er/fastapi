@@ -35,3 +35,112 @@
 2025-09-17 16:33:17,333 - watchfiles.main - INFO - 2 changes detected
 2025-09-17 16:33:30,191 - watchfiles.main - INFO - 2 changes detected
 2025-09-17 16:37:21,548 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:37:29,299 - watchfiles.main - INFO - 11 changes detected
+2025-09-17 16:37:43,754 - watchfiles.main - INFO - 25 changes detected
+2025-09-17 16:37:58,521 - watchfiles.main - INFO - 7 changes detected
+2025-09-17 16:38:29,296 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:38:29,669 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:38:51,198 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:38:51,559 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:39:36,204 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:39:39,996 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:39:49,721 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:39:52,356 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:39:54,262 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 16:39:54,629 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:39:57,357 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:40:03,707 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 16:40:04,488 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 16:40:07,052 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:40:08,778 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:40:15,623 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 16:42:14,354 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:42:40,313 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:42:50,407 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:43:24,536 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:43:27,395 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:43:31,361 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:43:34,369 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:43:37,547 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:43:43,518 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:43:47,100 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:43:56,933 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:43:59,885 - watchfiles.main - INFO - 989 changes detected
+2025-09-17 16:44:01,378 - watchfiles.main - INFO - 1787 changes detected
+2025-09-17 16:44:23,103 - watchfiles.main - INFO - 4925 changes detected
+2025-09-17 16:44:23,648 - watchfiles.main - INFO - 957 changes detected
+2025-09-17 16:44:29,676 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:44:37,127 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:44:37,504 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:44:59,236 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:44:59,581 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 16:44:59,581 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 16:44:59,668 - watchfiles.main - INFO - 1 change detected
+2025-09-17 16:44:59,905 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 16:44:59,905 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 16:44:59,989 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 16:44:59,989 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 16:45:00,083 - watchfiles.main - INFO - 4 changes detected
+2025-09-17 16:45:00,092 - watchfiles.main - INFO - 4 changes detected
+2025-09-17 16:47:53,315 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:47:53,327 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:47:53,891 - main - INFO - 访问根路径 /
+2025-09-17 16:47:54,611 - main - INFO - 访问健康检查接口 /health
+2025-09-17 16:47:55,536 - main - INFO - 向用户 testuser 问好
+2025-09-17 16:47:57,798 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:47:57,810 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:50:12,707 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:50:12,760 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:50:16,935 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:50:16,947 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:50:39,765 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:50:39,775 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:51:14,445 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 16:51:14,469 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:04:53,141 - watchfiles.main - INFO - 1 change detected
+2025-09-17 17:04:53,373 - watchfiles.main - INFO - 1 change detected
+2025-09-17 17:04:54,158 - watchfiles.main - INFO - 1 change detected
+2025-09-17 17:04:54,170 - watchfiles.main - INFO - 1 change detected
+2025-09-17 17:04:55,167 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 17:04:55,167 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 17:04:55,218 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 17:04:55,218 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 17:04:55,298 - watchfiles.main - INFO - 4 changes detected
+2025-09-17 17:04:55,322 - watchfiles.main - INFO - 4 changes detected
+2025-09-17 17:05:07,173 - watchfiles.main - INFO - 1 change detected
+2025-09-17 17:05:07,543 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 17:05:08,484 - watchfiles.main - INFO - 10 changes detected
+2025-09-17 17:05:09,718 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 17:05:09,718 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 17:05:09,787 - watchfiles.main - INFO - 1 change detected
+2025-09-17 17:05:10,030 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 17:05:10,030 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 17:05:10,058 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 17:05:10,058 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 17:05:10,097 - watchfiles.main - INFO - 1 change detected
+2025-09-17 17:05:10,156 - watchfiles.main - INFO - 1 change detected
+2025-09-17 17:06:24,668 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:06:24,689 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:06:25,113 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:06:25,121 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:06:57,147 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:06:57,169 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:06:57,520 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:06:57,536 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:07:45,737 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:07:45,756 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:09:47,880 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 17:09:47,888 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 17:09:48,291 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:09:48,297 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:09:51,012 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:09:51,014 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:10:06,559 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:10:06,558 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:27:44,552 - main - INFO - 访问根路径 /
+2025-09-17 17:27:54,239 - main - INFO - 访问健康检查接口 /health
+2025-09-17 17:28:04,058 - main - INFO - 向用户 张三 问好
+2025-09-17 17:33:13,650 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:33:13,646 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 17:33:24,280 - watchfiles.main - INFO - 1 change detected
+2025-09-17 17:33:24,300 - watchfiles.main - INFO - 1 change detected
