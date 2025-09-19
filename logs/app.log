@@ -1315,3 +1315,86 @@ Exception: Error calling greet_user. Status code: 404. Response: {"detail":"Not 
 2025-09-19 10:52:16,297 - watchfiles.main - INFO - 2 changes detected
 2025-09-19 10:52:16,353 - watchfiles.main - INFO - 2 changes detected
 >>>>>>> 5e0f4fbeee0c4a5da8b4a726c4a2b9cad03b867d
+2025-09-19 15:06:37,232 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 15:06:37,232 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 15:06:37,232 - __mp_main__ - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+2025-09-19 15:06:37,269 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 15:06:37,269 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 15:06:37,269 - main - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+2025-09-19 15:06:37,274 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,275 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,276 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,276 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,276 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,277 - fastapi_mcp.transport.sse - WARNING - Could not find session for ID: a7af0183-5814-44c4-be0b-2d76c0bd8cda
+2025-09-19 15:06:37,278 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,330 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,338 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,344 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,345 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 15:06:37,356 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,358 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 15:06:37,369 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,369 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 15:06:37,379 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,479 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,659 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,661 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 15:06:37,794 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,796 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 15:06:37,895 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:37,897 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 15:06:38,005 - main - INFO - SSE请求认证成功
+2025-09-19 15:06:38,008 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 15:08:22,443 - main - INFO - 访问健康检查接口 /health
+2025-09-19 15:08:27,625 - main - INFO - 访问健康检查接口 /health
+2025-09-19 15:08:42,221 - main - INFO - SSE请求认证成功
+2025-09-19 15:09:00,771 - main - INFO - SSE请求认证成功
+2025-09-19 15:09:00,778 - main - INFO - SSE请求认证成功
+2025-09-19 15:11:17,366 - main - INFO - SSE请求认证成功
+2025-09-19 15:11:17,494 - main - INFO - SSE请求认证成功
+2025-09-19 15:11:17,638 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:13,517 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 15:13:14,486 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 15:13:31,112 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:31,733 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:32,310 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:32,395 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:32,401 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 15:13:33,595 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:33,654 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:33,709 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:33,844 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:33,847 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 15:13:58,559 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:58,723 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:58,787 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:58,898 - main - INFO - SSE请求认证成功
+2025-09-19 15:13:58,901 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 15:17:50,138 - main - INFO - SSE请求认证成功
+2025-09-19 15:17:50,161 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 15:17:50,485 - main - INFO - SSE请求认证成功
+2025-09-19 15:17:50,491 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-19 15:17:50,613 - main - INFO - Token authentication successful
+2025-09-19 15:17:50,613 - main - INFO - 向用户 mini-fastapi-mcp-sse 问好
+2025-09-19 15:17:50,619 - httpx - INFO - HTTP Request: GET http://apiserver/hello/mini-fastapi-mcp-sse "HTTP/1.1 200 OK"
+2025-09-19 15:17:50,730 - main - INFO - SSE请求认证成功
+2025-09-19 15:17:50,850 - main - INFO - SSE请求认证成功
+2025-09-19 15:17:50,999 - main - INFO - SSE请求认证成功
+2025-09-19 15:17:51,134 - main - INFO - SSE请求认证成功
+2025-09-19 15:17:51,137 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 15:17:51,261 - main - INFO - SSE请求认证成功
+2025-09-19 15:17:51,264 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 15:17:51,555 - main - INFO - SSE请求认证成功
+2025-09-19 15:17:51,557 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 15:17:58,853 - main - INFO - SSE请求认证成功
+2025-09-19 15:17:58,863 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-19 15:17:58,867 - main - INFO - 访问健康检查接口 /health
+2025-09-19 15:17:58,869 - httpx - INFO - HTTP Request: GET http://apiserver/health "HTTP/1.1 200 OK"
+2025-09-19 15:18:05,401 - main - INFO - SSE请求认证成功
+2025-09-19 15:18:05,414 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-19 15:18:05,419 - main - INFO - Token authentication successful
+2025-09-19 15:18:05,420 - main - INFO - 向用户 mini-fastapi-mcp-sse 问好
+2025-09-19 15:18:05,420 - httpx - INFO - HTTP Request: GET http://apiserver/hello/mini-fastapi-mcp-sse "HTTP/1.1 200 OK"
+2025-09-19 15:25:24,720 - main - INFO - SSE请求认证成功
+2025-09-19 15:25:24,759 - main - INFO - SSE请求认证成功

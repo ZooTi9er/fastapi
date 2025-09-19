@@ -528,6 +528,11 @@ curl -X POST "http://mini.ewuzhe.dpdns.org:1234/sse/messages/?session_id=PUT_YOU
 例如：
 
 ```json
+
+# claude code cli 添加sse mcp 的指令
+claude mcp add mini-fastapi --transport sse http://mini.ewuzhe.dpdns.org:1234/sse --scope user --header "Authorization: Bearer sk-wuzhe12345"
+
+
 {
   "mcpServers": {
     "mini-fastapi": {
