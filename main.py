@@ -3,6 +3,10 @@ from fastapi_mcp import FastApiMCP
 import logging
 import os
 from datetime import datetime
+from dotenv import load_dotenv
+
+# 加载环境变量
+load_dotenv()
 
 # 配置日志
 logging.basicConfig(
@@ -52,10 +56,17 @@ mcp.mount_sse()
 
 if __name__ == "__main__":
     import uvicorn
+
+    # 从环境变量获取配置，提供默认值
+    host = os.getenv("HOST", "::")
+    port = int(os.getenv("PORT", "1234"))
+    reload = os.getenv("RELOAD", "True").lower() == "true"
+    log_level = os.getenv("LOG_LEVEL", "info")
+
     uvicorn.run(
         "main:app",
-        host="::",
-        port=1234,
-        reload=True,
-        log_level="info"
+        host=host,
+        port=port,
+        reload=reload,
+        log_level=log_level
     )

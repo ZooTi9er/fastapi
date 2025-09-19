@@ -1,0 +1,5 @@
+2025-09-19 13:44:48,872 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 13:44:48,873 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 13:44:48,873 - __main__ - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+INFO:     Will watch for changes in these directories: ['/Users/zhewu/other/fastapi']
+ERROR:    [Errno 48] Address already in use

@@ -144,3 +144,71 @@
 2025-09-17 17:33:13,646 - watchfiles.main - INFO - 2 changes detected
 2025-09-17 17:33:24,280 - watchfiles.main - INFO - 1 change detected
 2025-09-17 17:33:24,300 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:17:50,845 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:17:50,845 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:21:51,681 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:21:51,681 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:21:52,002 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:21:52,002 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:21:52,044 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:21:52,044 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:21:52,135 - watchfiles.main - INFO - 4 changes detected
+2025-09-19 14:22:12,369 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 14:22:12,475 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 14:22:12,692 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 14:22:26,003 - main - INFO - 访问健康检查接口 /health
+2025-09-19 14:22:48,343 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 14:23:07,875 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-19 14:23:07,887 - main - INFO - 向用户 测试用户 问好
+2025-09-19 14:23:07,888 - httpx - INFO - HTTP Request: GET http://apiserver/hello/%E6%B5%8B%E8%AF%95%E7%94%A8%E6%88%B7 "HTTP/1.1 200 OK"
+2025-09-19 14:23:08,084 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-19 14:23:08,087 - main - INFO - 访问健康检查接口 /health
+2025-09-19 14:23:08,088 - httpx - INFO - HTTP Request: GET http://apiserver/health "HTTP/1.1 200 OK"
+2025-09-19 14:23:08,424 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-19 14:23:08,427 - main - INFO - 访问根路径 /
+2025-09-19 14:23:08,427 - httpx - INFO - HTTP Request: GET http://apiserver/ "HTTP/1.1 200 OK"
+2025-09-19 14:23:28,671 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:23:31,884 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:23:32,250 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 14:24:06,907 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:24:06,907 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:24:07,271 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:24:07,271 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:24:07,300 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:24:07,300 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:24:07,399 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:24:30,275 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:26:32,273 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:26:35,463 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:26:35,830 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 14:26:56,530 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 14:27:00,287 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 14:31:04,687 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:31:04,688 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:31:04,732 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:31:04,732 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:31:04,738 - fastapi_mcp.transport.sse - WARNING - Could not find session for ID: 79f7cbbf-4eaa-4f6d-9bc1-71a166aa202a
+2025-09-19 14:31:04,739 - fastapi_mcp.transport.sse - WARNING - Could not find session for ID: 79f7cbbf-4eaa-4f6d-9bc1-71a166aa202a
+2025-09-19 14:31:05,191 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 14:31:05,228 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 14:31:05,304 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 14:31:05,393 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 14:31:05,448 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 14:31:05,519 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 14:31:14,610 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:31:14,610 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:31:14,980 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:31:14,980 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:31:15,001 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-19 14:31:15,001 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-19 14:31:15,045 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:33:09,506 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 14:33:42,059 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 14:33:43,058 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 14:33:45,762 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:33:50,260 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:33:50,634 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 14:36:50,642 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:36:53,782 - watchfiles.main - INFO - 1 change detected
+2025-09-19 14:36:54,153 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 14:39:12,350 - watchfiles.main - INFO - 1 change detected
