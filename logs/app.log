@@ -144,6 +144,7 @@
 2025-09-17 17:33:13,646 - watchfiles.main - INFO - 2 changes detected
 2025-09-17 17:33:24,280 - watchfiles.main - INFO - 1 change detected
 2025-09-17 17:33:24,300 - watchfiles.main - INFO - 1 change detected
+<<<<<<< HEAD
 2025-09-19 14:17:50,845 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
 2025-09-19 14:17:50,845 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
 2025-09-19 14:21:51,681 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
@@ -223,3 +224,1094 @@
 2025-09-19 14:43:06,247 - watchfiles.main - INFO - 1 change detected
 2025-09-19 14:43:09,389 - watchfiles.main - INFO - 1 change detected
 2025-09-19 14:43:09,765 - watchfiles.main - INFO - 2 changes detected
+=======
+2025-09-17 17:33:26,384 - watchfiles.main - INFO - 10114 changes detected
+2025-09-17 17:33:26,479 - watchfiles.main - INFO - 10336 changes detected
+2025-09-17 17:33:26,911 - watchfiles.main - INFO - 981 changes detected
+2025-09-17 17:33:27,019 - watchfiles.main - INFO - 722 changes detected
+2025-09-17 17:34:00,263 - watchfiles.main - INFO - 1547 changes detected
+2025-09-17 17:34:00,278 - watchfiles.main - INFO - 1547 changes detected
+2025-09-17 17:34:29,332 - watchfiles.main - INFO - 7 changes detected
+2025-09-17 17:34:29,342 - watchfiles.main - INFO - 7 changes detected
+2025-09-17 17:57:23,429 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 17:57:23,441 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 17:57:23,446 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 17:58:52,626 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 17:58:52,638 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 17:58:52,641 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 17:59:11,665 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 17:59:11,872 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 17:59:12,075 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 18:01:31,474 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:01:31,489 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:01:44,154 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:01:44,190 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:06:17,350 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:06:17,388 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:07:04,975 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:07:05,003 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:07:05,343 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:07:05,380 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:08:21,955 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:08:21,964 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:08:22,321 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:08:22,349 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:08:50,255 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:08:50,263 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:08:50,801 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:08:50,856 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:08:52,067 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:08:52,089 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:09:14,714 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:09:14,742 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:10:55,976 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:10:55,982 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:10:56,336 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:10:56,348 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:10:56,698 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:10:56,709 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:10:57,056 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:10:57,076 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:12:51,526 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:12:51,527 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:14:10,273 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:14:10,298 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:16:04,726 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:16:04,740 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 18:20:35,257 - main - INFO - 访问健康检查接口 /health
+2025-09-17 18:21:08,124 - main - INFO - 访问根路径 /
+2025-09-17 18:21:18,116 - main - INFO - 向用户 张三 问好
+2025-09-17 18:22:36,876 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:22:36,888 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 18:22:36,897 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 18:25:14,733 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:25:14,754 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 18:25:14,772 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 18:26:34,524 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:26:34,657 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-17 18:26:34,699 - main - INFO - 访问根路径 /
+2025-09-17 18:26:34,705 - httpx - INFO - HTTP Request: GET http://apiserver/ "HTTP/1.1 200 OK"
+2025-09-17 18:26:35,193 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:26:35,225 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 18:26:35,248 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 18:26:48,928 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:26:49,092 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-17 18:26:49,095 - main - INFO - 访问健康检查接口 /health
+2025-09-17 18:26:49,096 - httpx - INFO - HTTP Request: GET http://apiserver/health "HTTP/1.1 200 OK"
+2025-09-17 18:26:49,563 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:26:49,579 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 18:26:49,597 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 18:27:09,536 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:27:09,698 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-17 18:27:09,735 - main - INFO - 向用户 Kilo Code 问好
+2025-09-17 18:27:09,736 - httpx - INFO - HTTP Request: GET http://apiserver/hello/Kilo%20Code "HTTP/1.1 200 OK"
+2025-09-17 18:27:10,221 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:27:10,238 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 18:27:10,254 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 18:35:34,493 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:35:34,526 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:36:07,983 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 18:36:07,993 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 18:36:08,991 - watchfiles.main - INFO - 7 changes detected
+2025-09-17 18:36:08,991 - watchfiles.main - INFO - 7 changes detected
+2025-09-17 18:38:43,250 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:38:43,274 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:42:11,347 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:42:11,348 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:43:39,887 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:43:39,904 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:45:19,170 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:45:19,195 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:49:18,094 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:49:18,120 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 18:49:19,333 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 18:49:31,162 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:49:31,806 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 18:49:31,814 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 18:49:45,803 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:49:46,140 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 18:49:46,251 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 18:51:00,999 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:51:01,001 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:52:33,842 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:52:33,860 - watchfiles.main - INFO - 1 change detected
+2025-09-17 18:59:15,232 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 18:59:15,253 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 18:59:15,271 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 19:06:21,483 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:06:21,524 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:07:41,222 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:07:41,246 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:11:30,409 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:11:30,426 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:11:34,182 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:11:34,184 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:11:35,002 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:11:35,022 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:12:32,582 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:12:32,594 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:12:32,960 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:12:32,960 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:12:36,181 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:12:36,189 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:12:36,553 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:12:36,561 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:12:51,364 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:12:51,370 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:12:54,312 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:12:54,321 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:14:11,230 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:14:11,240 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:15:01,390 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:15:01,396 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:15:01,766 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:15:01,767 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:15:30,799 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:15:30,840 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:15:33,245 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:15:33,279 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:04,949 - watchfiles.main - INFO - 6 changes detected
+2025-09-17 19:16:04,984 - watchfiles.main - INFO - 6 changes detected
+2025-09-17 19:16:05,328 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:05,353 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:08,299 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:08,330 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:09,864 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:16:09,884 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:16:10,243 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:10,251 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:12,599 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:12,616 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:14,492 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:16:14,516 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:16:15,160 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:16:15,736 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 19:16:15,736 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 19:16:15,763 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 19:16:15,763 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 19:16:15,875 - watchfiles.main - INFO - 4 changes detected
+2025-09-17 19:16:18,441 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:16:18,957 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 19:16:18,957 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 19:16:18,970 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 19:16:18,970 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 19:16:19,064 - watchfiles.main - INFO - 6 changes detected
+2025-09-17 19:16:27,347 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:16:27,860 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 19:16:27,860 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 19:16:27,873 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 19:16:27,874 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 19:16:27,946 - watchfiles.main - INFO - 6 changes detected
+2025-09-17 19:16:29,782 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:16:30,237 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 19:16:30,237 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 19:16:30,251 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 19:16:30,251 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 19:16:30,339 - watchfiles.main - INFO - 6 changes detected
+2025-09-17 19:16:36,109 - watchfiles.main - INFO - 5 changes detected
+2025-09-17 19:16:36,590 - __mp_main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:16:36,604 - main - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:16:36,686 - watchfiles.main - INFO - 4 changes detected
+2025-09-17 19:16:50,050 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:54,301 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:16:54,659 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:57,264 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:16:59,234 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:17:03,570 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:17:04,505 - main - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:17:04,601 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:17:06,559 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:19:21,126 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:19:25,478 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:50:06,848 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:50:07,217 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:50:39,665 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:50:40,034 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:50:47,964 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:50:48,655 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:50:49,614 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:18,452 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:24,176 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:24,547 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:28,407 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:28,767 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:29,136 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:29,502 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:33,533 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:33,913 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:34,329 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:34,686 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:37,303 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:38,621 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:51:42,624 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:52:05,666 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:52:08,335 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:52:13,210 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:52:14,762 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:52:15,506 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:52:46,003 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:52:46,509 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:52:46,780 - __mp_main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:52:46,818 - main - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:52:46,879 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:53:12,741 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:53:13,237 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:53:13,303 - __mp_main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:53:13,325 - main - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:53:13,614 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:53:48,973 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:53:54,995 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:55:59,418 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:56:13,878 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:56:17,025 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:56:24,619 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:56:31,502 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:56:33,694 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:56:50,810 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:56:53,157 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:57:02,999 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:57:03,540 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:57:03,720 - __mp_main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:57:03,746 - main - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:57:03,900 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:57:05,967 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:57:31,663 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:57:44,741 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:57:48,100 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:57:53,150 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:57:53,529 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:57:58,282 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:58:00,564 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:58:08,859 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:58:09,234 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:58:09,481 - __main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:58:09,614 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:58:26,690 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:58:41,580 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:58:46,549 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:58:47,591 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:58:47,951 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:58:48,987 - watchfiles.main - INFO - 10 changes detected
+2025-09-17 19:59:12,540 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:59:13,548 - watchfiles.main - INFO - 10 changes detected
+2025-09-17 19:59:23,269 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:59:24,511 - __main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:59:24,608 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:59:24,819 - __mp_main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:59:24,842 - main - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:59:24,884 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:59:24,978 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:59:25,679 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:59:25,707 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:59:28,866 - main - INFO - 访问健康检查接口 /health
+2025-09-17 19:59:30,791 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:59:30,828 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:59:31,415 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:59:31,434 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:59:56,193 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:59:56,203 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:59:56,756 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:59:56,771 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 19:59:56,902 - __mp_main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:59:56,902 - __mp_main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:59:56,926 - main - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:59:56,926 - main - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 19:59:57,128 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:59:57,140 - watchfiles.main - INFO - 1 change detected
+2025-09-17 19:59:59,027 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 19:59:59,056 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:17,190 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:17,226 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:18,658 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:18,700 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:20,021 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:20,043 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:28,260 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:28,263 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:30,602 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:30,616 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:31,251 - main - INFO - 访问健康检查接口 /health
+2025-09-17 20:00:31,258 - main - WARNING - Missing Authorization header
+2025-09-17 20:00:31,259 - main - INFO - Token authentication successful
+2025-09-17 20:00:31,259 - main - INFO - 访问根路径 /
+2025-09-17 20:00:31,260 - main - WARNING - Missing Authorization header
+2025-09-17 20:00:31,262 - main - INFO - Token authentication successful
+2025-09-17 20:00:31,262 - main - INFO - 向用户 test 问好
+2025-09-17 20:00:31,263 - main - WARNING - Invalid token received: Bearer wrong_token...
+2025-09-17 20:00:31,264 - main - WARNING - Missing Authorization header
+2025-09-17 20:00:31,265 - main - INFO - Token authentication successful
+2025-09-17 20:00:31,265 - main - INFO - 访问根路径 /
+2025-09-17 20:00:31,266 - main - WARNING - Invalid token received: sk-wuzhe12345...
+2025-09-17 20:00:31,269 - main - INFO - 访问健康检查接口 /health
+2025-09-17 20:00:31,270 - main - INFO - Token authentication successful
+2025-09-17 20:00:31,270 - main - INFO - 访问根路径 /
+2025-09-17 20:00:31,271 - main - INFO - Token authentication successful
+2025-09-17 20:00:31,271 - main - INFO - 向用户 performance_test 问好
+2025-09-17 20:00:31,358 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:00:31,379 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:00:41,810 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:00:41,824 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:01:11,845 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:01:11,854 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:01:12,368 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:01:12,377 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:01:12,537 - __mp_main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 20:01:12,537 - __mp_main__ - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 20:01:12,563 - main - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 20:01:12,563 - main - WARNING - mcp.mount_sse 不支持 dependencies 参数 — 请确保 /sse 与 /sse/messages 路径有 token 验证中间件或路由级别的 Depends(check_token)
+2025-09-17 20:01:12,740 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:01:12,741 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:01:14,485 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:01:14,518 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:01:15,067 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:01:15,067 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:01:17,280 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:01:17,286 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:01:39,600 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:01:39,600 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:01:59,469 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:01:59,478 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:02:03,002 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:02:03,015 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:02:05,885 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:02:05,925 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:02:08,210 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:02:08,247 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:02:34,982 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:02:35,057 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:14,770 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:14,771 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:28,043 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:28,069 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:31,150 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:31,155 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:33,796 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:33,797 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:35,479 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:35,515 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:39,535 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:03:39,552 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:06,031 - watchfiles.main - INFO - 4 changes detected
+2025-09-17 20:04:06,039 - watchfiles.main - INFO - 4 changes detected
+2025-09-17 20:04:06,404 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:06,404 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:11,669 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:11,669 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:15,492 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:15,525 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:33,269 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:33,288 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:37,770 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:37,799 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:41,069 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:41,080 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:44,678 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:44,680 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:49,698 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:04:49,699 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:04:50,237 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:04:50,270 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:04:53,148 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:53,156 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:56,846 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:04:56,868 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:04:57,226 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:57,244 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:57,257 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 20:04:57,257 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 20:04:57,257 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 20:04:57,257 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 20:04:57,257 - __mp_main__ - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+2025-09-17 20:04:57,257 - __mp_main__ - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+2025-09-17 20:04:57,286 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 20:04:57,286 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 20:04:57,286 - main - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+2025-09-17 20:04:57,287 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 20:04:57,287 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 20:04:57,287 - main - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+2025-09-17 20:04:57,599 - watchfiles.main - INFO - 6 changes detected
+2025-09-17 20:04:57,610 - watchfiles.main - INFO - 6 changes detected
+2025-09-17 20:04:59,223 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:04:59,276 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:05:02,933 - main - INFO - SSE请求认证成功
+2025-09-17 20:05:03,265 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:05:03,266 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:07:29,242 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:07:29,257 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:07:29,505 - main - WARNING - SSE请求缺少Authorization头
+2025-09-17 20:07:32,428 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:07:32,435 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:07:32,578 - main - WARNING - SSE请求无效token: Bearer wrong_token...
+2025-09-17 20:07:36,173 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:07:36,182 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:07:48,437 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:07:48,450 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:07:48,698 - main - INFO - SSE请求认证成功
+2025-09-17 20:07:48,699 - fastapi_mcp.transport.sse - WARNING - Received request without session_id
+2025-09-17 20:08:15,676 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:08:15,677 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:08:16,198 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:08:16,199 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:08:16,380 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 20:08:16,380 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 20:08:16,381 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 20:08:16,381 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 20:08:16,381 - __mp_main__ - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+2025-09-17 20:08:16,381 - __mp_main__ - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+2025-09-17 20:08:16,408 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 20:08:16,408 - fastapi_mcp.server - INFO - No auth config provided, skipping auth setup
+2025-09-17 20:08:16,408 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 20:08:16,408 - fastapi_mcp.server - INFO - MCP SSE server listening at /sse
+2025-09-17 20:08:16,408 - main - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+2025-09-17 20:08:16,408 - main - INFO - MCP SSE 挂载成功，通过中间件进行 token 验证
+2025-09-17 20:08:16,572 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:08:16,572 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:08:21,460 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:08:21,478 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:08:22,125 - main - WARNING - SSE请求缺少Authorization头
+2025-09-17 20:08:22,127 - main - WARNING - SSE请求无效token: Bearer wrong_token...
+2025-09-17 20:08:22,128 - main - INFO - SSE请求认证成功
+2025-09-17 20:08:24,141 - main - INFO - SSE请求认证成功
+2025-09-17 20:08:24,142 - fastapi_mcp.transport.sse - WARNING - Received request without session_id
+2025-09-17 20:08:24,145 - main - WARNING - SSE请求缺少Authorization头
+2025-09-17 20:08:24,147 - main - INFO - SSE请求认证成功
+2025-09-17 20:08:24,221 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:08:24,234 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:09:08,294 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:09:08,294 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:09:58,432 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:09:58,454 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:10:02,566 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:10:02,566 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:10:04,587 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:10:04,608 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:10:13,740 - main - WARNING - SSE请求缺少Authorization头
+2025-09-17 20:10:13,744 - main - WARNING - SSE请求无效token: Bearer wrong_token...
+2025-09-17 20:10:13,745 - main - INFO - SSE请求认证成功
+2025-09-17 20:10:13,906 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:10:13,918 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:10:14,277 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:10:14,277 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:10:15,760 - main - INFO - SSE请求认证成功
+2025-09-17 20:10:15,760 - fastapi_mcp.transport.sse - WARNING - Received request without session_id
+2025-09-17 20:10:15,787 - main - WARNING - SSE请求缺少Authorization头
+2025-09-17 20:10:15,789 - main - INFO - SSE请求认证成功
+2025-09-17 20:10:15,874 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:10:15,880 - watchfiles.main - INFO - 1 change detected
+2025-09-17 20:10:24,530 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:10:24,548 - watchfiles.main - INFO - 2 changes detected
+2025-09-17 20:21:26,940 - main - WARNING - SSE请求缺少Authorization头
+2025-09-17 20:56:35,807 - main - INFO - 访问健康检查接口 /health
+2025-09-17 20:56:36,012 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:56:36,045 - watchfiles.main - INFO - 3 changes detected
+2025-09-17 20:56:37,038 - watchfiles.main - INFO - 10 changes detected
+2025-09-17 20:56:37,049 - watchfiles.main - INFO - 10 changes detected
+2025-09-17 20:56:42,239 - main - WARNING - Missing Authorization header
+2025-09-17 20:56:50,848 - main - WARNING - Missing Authorization header
+2025-09-17 20:57:10,255 - main - WARNING - SSE请求缺少Authorization头
+2025-09-17 20:58:26,112 - main - INFO - 访问健康检查接口 /health
+2025-09-17 20:58:38,685 - main - INFO - 访问健康检查接口 /health
+2025-09-17 20:58:52,582 - main - INFO - SSE请求认证成功
+2025-09-17 20:58:52,587 - fastapi_mcp.transport.sse - WARNING - Received invalid session ID: THE_SESSION_ID
+2025-09-17 20:59:06,803 - main - INFO - SSE请求认证成功
+2025-09-17 20:59:49,440 - main - INFO - SSE请求认证成功
+2025-09-17 20:59:49,466 - fastapi_mcp.transport.sse - ERROR - Error sending message to writer: 
+2025-09-17 21:00:38,650 - main - WARNING - SSE请求无效token: Bearer sk-wuzhe12345...
+2025-09-17 21:00:56,285 - watchfiles.main - INFO - 1 change detected
+2025-09-17 21:00:56,310 - watchfiles.main - INFO - 1 change detected
+2025-09-17 21:01:42,505 - main - WARNING - SSE请求无效token: Bearer sk-wuzhe12345...
+2025-09-17 21:01:44,990 - main - WARNING - SSE请求无效token: Bearer sk-wuzhe12345...
+2025-09-17 21:02:37,593 - main - WARNING - SSE请求无效token: Bearer ${env:FASTAPI...
+2025-09-17 21:02:39,131 - main - WARNING - SSE请求无效token: Bearer ${env:FASTAPI...
+2025-09-17 21:03:00,350 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:00,428 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:00,509 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:00,535 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:00,542 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 21:03:00,570 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:00,570 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 21:03:00,592 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:00,593 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 21:03:01,129 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:01,158 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:01,183 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:01,207 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:01,209 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-17 21:03:01,235 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:01,236 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-17 21:03:01,258 - main - INFO - SSE请求认证成功
+2025-09-17 21:03:01,262 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-17 21:04:17,961 - watchfiles.main - INFO - 1 change detected
+2025-09-17 21:04:17,984 - watchfiles.main - INFO - 1 change detected
+2025-09-17 21:07:02,148 - main - INFO - 访问健康检查接口 /health
+2025-09-17 21:07:17,763 - main - INFO - 访问健康检查接口 /health
+2025-09-17 21:07:30,215 - main - INFO - SSE请求认证成功
+2025-09-17 21:08:11,073 - main - INFO - SSE请求认证成功
+2025-09-17 21:08:11,076 - fastapi_mcp.transport.sse - WARNING - Received invalid session ID: PUT_61192f87dc284d20990645807224d3e8
+2025-09-17 21:08:38,622 - main - INFO - SSE请求认证成功
+2025-09-17 21:08:38,654 - fastapi_mcp.transport.sse - ERROR - Error sending message to writer: 
+2025-09-17 21:36:22,559 - main - WARNING - SSE请求缺少Authorization头
+2025-09-17 21:36:32,832 - main - WARNING - SSE请求无效token: Bearer sk-wuzhe12345...
+2025-09-17 21:36:34,510 - main - INFO - SSE请求认证成功
+2025-09-17 21:38:37,498 - main - INFO - SSE请求认证成功
+2025-09-17 21:38:49,024 - main - INFO - SSE请求认证成功
+2025-09-17 21:38:57,873 - main - INFO - SSE请求认证成功
+2025-09-17 21:41:35,307 - main - INFO - Token authentication successful
+2025-09-17 21:41:35,309 - main - INFO - 访问根路径 /
+2025-09-18 07:50:54,641 - main - INFO - SSE请求认证成功
+2025-09-18 07:50:54,754 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-18 07:50:55,068 - main - INFO - SSE请求认证成功
+2025-09-18 07:50:55,073 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-18 07:50:55,131 - main - INFO - Token authentication successful
+2025-09-18 07:50:55,131 - main - INFO - 访问根路径 /
+2025-09-18 07:50:55,138 - httpx - INFO - HTTP Request: GET http://apiserver/ "HTTP/1.1 200 OK"
+2025-09-18 07:50:55,250 - main - INFO - SSE请求认证成功
+2025-09-18 07:50:55,276 - main - INFO - SSE请求认证成功
+2025-09-18 07:50:55,327 - main - INFO - SSE请求认证成功
+2025-09-18 07:50:55,394 - main - INFO - SSE请求认证成功
+2025-09-18 07:50:55,395 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-18 07:50:55,444 - main - INFO - SSE请求认证成功
+2025-09-18 07:50:55,446 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-18 07:50:55,492 - main - INFO - SSE请求认证成功
+2025-09-18 07:50:55,493 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-18 07:51:09,026 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:09,031 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-18 07:51:09,176 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:09,180 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-18 07:51:09,182 - main - INFO - 访问健康检查接口 /health
+2025-09-18 07:51:09,183 - httpx - INFO - HTTP Request: GET http://apiserver/health "HTTP/1.1 200 OK"
+2025-09-18 07:51:09,682 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:09,704 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:09,722 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:09,740 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:09,741 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-18 07:51:09,756 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:09,756 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-18 07:51:09,774 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:09,775 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-18 07:51:20,152 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:20,157 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-18 07:51:20,281 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:20,286 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-18 07:51:20,295 - main - INFO - Token authentication successful
+2025-09-18 07:51:20,295 - main - INFO - 向用户 测试用户 问好
+2025-09-18 07:51:20,296 - httpx - INFO - HTTP Request: GET http://apiserver/hello/%E6%B5%8B%E8%AF%95%E7%94%A8%E6%88%B7 "HTTP/1.1 200 OK"
+2025-09-18 07:51:20,691 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:20,707 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:20,727 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:20,744 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:20,745 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-18 07:51:20,762 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:20,763 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-18 07:51:20,777 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:20,778 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-18 07:51:41,961 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:41,973 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-18 07:51:41,980 - httpx - INFO - HTTP Request: GET http://apiserver/hello/ "HTTP/1.1 404 Not Found"
+2025-09-18 07:51:41,987 - fastapi_mcp.server - ERROR - Error calling greet_user
+Traceback (most recent call last):
+  File "/Users/zhewu/other/fastapi/.venv/lib/python3.12/site-packages/fastapi_mcp/server.py", line 559, in _execute_api_tool
+    raise Exception(
+Exception: Error calling greet_user. Status code: 404. Response: {"detail":"Not Found"}
+2025-09-18 07:51:51,063 - main - INFO - SSE请求认证成功
+2025-09-18 07:51:51,065 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-18 08:00:55,668 - main - INFO - SSE请求认证成功
+2025-09-18 08:00:55,808 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-18 08:00:55,858 - main - INFO - 访问健康检查接口 /health
+2025-09-18 08:00:55,863 - httpx - INFO - HTTP Request: GET http://apiserver/health "HTTP/1.1 200 OK"
+2025-09-18 08:01:10,029 - main - INFO - SSE请求认证成功
+2025-09-18 08:01:10,041 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-18 08:01:10,048 - main - INFO - Token authentication successful
+2025-09-18 08:01:10,048 - main - INFO - 访问根路径 /
+2025-09-18 08:01:10,048 - httpx - INFO - HTTP Request: GET http://apiserver/ "HTTP/1.1 200 OK"
+2025-09-18 08:01:21,350 - main - INFO - SSE请求认证成功
+2025-09-18 08:01:21,383 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-18 08:01:21,393 - main - INFO - Token authentication successful
+2025-09-18 08:01:21,393 - main - INFO - 向用户 Kilo Code 问好
+2025-09-18 08:01:21,394 - httpx - INFO - HTTP Request: GET http://apiserver/hello/Kilo%20Code "HTTP/1.1 200 OK"
+2025-09-18 08:02:55,663 - main - INFO - 访问健康检查接口 /health
+2025-09-18 08:03:20,328 - main - INFO - 访问健康检查接口 /health
+2025-09-18 08:03:36,547 - main - INFO - SSE请求认证成功
+2025-09-18 08:09:53,367 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 08:10:53,562 - main - INFO - 访问健康检查接口 /health
+2025-09-18 08:11:04,625 - main - INFO - 访问健康检查接口 /health
+2025-09-18 08:11:21,076 - main - INFO - SSE请求认证成功
+2025-09-18 08:14:13,755 - watchfiles.main - INFO - 1 change detected
+2025-09-18 08:14:13,824 - watchfiles.main - INFO - 1 change detected
+2025-09-18 08:15:09,888 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 08:17:12,921 - main - WARNING - Missing Authorization header
+2025-09-18 08:17:16,927 - main - INFO - 访问健康检查接口 /health
+2025-09-18 08:17:29,374 - main - INFO - SSE请求认证成功
+2025-09-18 08:17:49,457 - main - INFO - SSE请求认证成功
+2025-09-18 08:17:49,481 - fastapi_mcp.transport.sse - ERROR - Error sending message to writer: 
+2025-09-18 08:17:54,147 - main - INFO - SSE请求认证成功
+2025-09-18 08:20:19,705 - main - INFO - 访问健康检查接口 /health
+2025-09-18 10:41:24,839 - main - INFO - SSE请求认证成功
+2025-09-18 10:41:24,873 - main - INFO - SSE请求认证成功
+2025-09-18 10:48:58,280 - main - INFO - SSE请求认证成功
+2025-09-18 10:48:58,419 - main - INFO - SSE请求认证成功
+2025-09-18 10:48:58,552 - main - INFO - SSE请求认证成功
+2025-09-18 10:48:58,659 - main - INFO - SSE请求认证成功
+2025-09-18 10:48:58,666 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-18 10:48:58,793 - main - INFO - SSE请求认证成功
+2025-09-18 10:48:58,804 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-18 10:48:58,908 - main - INFO - SSE请求认证成功
+2025-09-18 10:48:58,911 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-18 17:05:56,786 - main - INFO - SSE请求认证成功
+2025-09-18 17:10:43,369 - watchfiles.main - INFO - 3 changes detected
+2025-09-18 17:10:43,371 - watchfiles.main - INFO - 3 changes detected
+2025-09-18 17:10:44,358 - watchfiles.main - INFO - 10 changes detected
+2025-09-18 17:10:44,371 - watchfiles.main - INFO - 10 changes detected
+2025-09-18 17:10:46,853 - watchfiles.main - INFO - 3 changes detected
+2025-09-18 17:10:46,892 - watchfiles.main - INFO - 3 changes detected
+2025-09-18 17:10:47,901 - watchfiles.main - INFO - 10 changes detected
+2025-09-18 17:10:47,904 - watchfiles.main - INFO - 10 changes detected
+2025-09-18 17:10:49,966 - watchfiles.main - INFO - 3 changes detected
+2025-09-18 17:10:49,985 - watchfiles.main - INFO - 3 changes detected
+2025-09-18 17:10:50,958 - watchfiles.main - INFO - 10 changes detected
+2025-09-18 17:10:50,963 - watchfiles.main - INFO - 10 changes detected
+2025-09-18 17:10:53,651 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 17:10:59,027 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 17:18:42,820 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 17:18:58,400 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 17:20:15,628 - main - INFO - SSE请求认证成功
+2025-09-18 17:20:15,664 - main - INFO - SSE请求认证成功
+2025-09-18 17:20:15,706 - main - INFO - SSE请求认证成功
+2025-09-18 17:20:15,726 - main - INFO - SSE请求认证成功
+2025-09-18 17:20:15,728 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-18 17:20:15,748 - main - INFO - SSE请求认证成功
+2025-09-18 17:20:15,749 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-18 17:20:15,763 - main - INFO - SSE请求认证成功
+2025-09-18 17:20:15,764 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-18 17:21:22,819 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 17:23:04,923 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 17:23:25,428 - main - WARNING - Missing Authorization header
+2025-09-18 17:23:27,089 - main - WARNING - Invalid token received: Bearer test...
+2025-09-18 17:23:53,250 - main - INFO - 访问健康检查接口 /health
+2025-09-18 17:23:56,740 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 17:23:58,297 - main - WARNING - SSE请求无效token: Bearer test-token...
+2025-09-18 17:29:28,931 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 17:40:11,386 - main - INFO - SSE请求认证成功
+2025-09-18 17:40:11,443 - main - INFO - SSE请求认证成功
+2025-09-18 17:40:11,486 - main - INFO - SSE请求认证成功
+2025-09-18 17:40:11,516 - main - INFO - SSE请求认证成功
+2025-09-18 17:40:11,517 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-18 17:40:11,547 - main - INFO - SSE请求认证成功
+2025-09-18 17:40:11,550 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-18 17:40:11,574 - main - INFO - SSE请求认证成功
+2025-09-18 17:40:11,579 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-18 18:28:50,044 - main - INFO - SSE请求认证成功
+2025-09-18 18:28:50,101 - main - INFO - SSE请求认证成功
+2025-09-18 18:28:50,140 - main - INFO - SSE请求认证成功
+2025-09-18 18:28:50,155 - main - INFO - SSE请求认证成功
+2025-09-18 18:28:50,157 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-18 18:28:50,175 - main - INFO - SSE请求认证成功
+2025-09-18 18:28:50,176 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-18 18:28:50,193 - main - INFO - SSE请求认证成功
+2025-09-18 18:28:50,194 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-18 18:33:10,492 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 18:35:29,076 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 18:40:46,074 - main - WARNING - SSE请求缺少Authorization头
+2025-09-18 18:41:20,683 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 01:21:44,656 - main - INFO - SSE请求认证成功
+2025-09-19 01:21:44,684 - main - INFO - SSE请求认证成功
+2025-09-19 02:39:17,922 - main - INFO - SSE请求认证成功
+2025-09-19 02:39:17,942 - main - INFO - SSE请求认证成功
+2025-09-19 03:22:16,796 - main - INFO - SSE请求认证成功
+2025-09-19 03:22:16,813 - main - INFO - SSE请求认证成功
+2025-09-19 03:39:23,776 - main - INFO - SSE请求认证成功
+2025-09-19 03:39:23,793 - main - INFO - SSE请求认证成功
+2025-09-19 03:55:38,987 - main - INFO - SSE请求认证成功
+2025-09-19 03:55:38,998 - main - INFO - SSE请求认证成功
+2025-09-19 04:05:59,863 - main - INFO - SSE请求认证成功
+2025-09-19 04:05:59,877 - main - INFO - SSE请求认证成功
+2025-09-19 04:21:55,660 - main - INFO - SSE请求认证成功
+2025-09-19 04:21:55,676 - main - INFO - SSE请求认证成功
+2025-09-19 05:39:00,055 - main - INFO - SSE请求认证成功
+2025-09-19 05:39:00,074 - main - INFO - SSE请求认证成功
+2025-09-19 05:55:03,102 - main - INFO - SSE请求认证成功
+2025-09-19 05:55:03,115 - main - INFO - SSE请求认证成功
+2025-09-19 07:06:59,858 - main - INFO - SSE请求认证成功
+2025-09-19 07:06:59,875 - main - INFO - SSE请求认证成功
+2025-09-19 07:25:29,168 - main - INFO - SSE请求认证成功
+2025-09-19 07:25:29,198 - main - INFO - SSE请求认证成功
+2025-09-19 07:42:06,024 - main - INFO - SSE请求认证成功
+2025-09-19 07:42:06,042 - main - INFO - SSE请求认证成功
+2025-09-19 09:01:24,337 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:02:36,817 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:02:36,814 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:02:37,615 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 09:02:37,653 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 09:02:38,626 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 09:02:38,654 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 09:02:38,698 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:02:39,793 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:02:39,818 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:02:40,158 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:02:40,194 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:02:49,214 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:03:04,224 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 09:03:04,260 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 09:03:05,276 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 09:03:05,279 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 09:03:11,093 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 09:03:11,102 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 09:03:12,124 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 09:03:12,158 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 09:04:15,043 - main - INFO - SSE请求认证成功
+2025-09-19 09:04:15,089 - fastapi_mcp.transport.sse - ERROR - Error sending message to writer: 
+2025-09-19 09:04:15,278 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 09:04:15,298 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 09:04:16,275 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 09:04:16,311 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 09:04:31,552 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 09:04:31,584 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 09:04:32,584 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 09:04:32,596 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 09:06:16,770 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:06:16,776 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:06:19,950 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:06:19,959 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:06:20,318 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:06:20,325 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:07:22,667 - main - INFO - 访问健康检查接口 /health
+2025-09-19 09:07:35,371 - main - INFO - 访问健康检查接口 /health
+2025-09-19 09:07:47,294 - main - INFO - SSE请求认证成功
+2025-09-19 09:08:53,930 - main - INFO - SSE请求认证成功
+2025-09-19 09:09:37,813 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:09:37,818 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:09:40,945 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:09:40,975 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:09:41,316 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:09:41,349 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:09:46,428 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:12:14,325 - main - INFO - SSE请求认证成功
+2025-09-19 09:12:14,479 - main - INFO - SSE请求认证成功
+2025-09-19 09:12:14,725 - main - INFO - SSE请求认证成功
+2025-09-19 09:12:14,739 - main - INFO - SSE请求认证成功
+2025-09-19 09:12:14,751 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:12:14,767 - main - INFO - SSE请求认证成功
+2025-09-19 09:12:14,769 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:12:14,773 - main - INFO - SSE请求认证成功
+2025-09-19 09:12:14,774 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:12:41,448 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:12:41,488 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:12:44,638 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:12:44,645 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:12:45,011 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:12:45,040 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:13:38,756 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:38,784 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:38,810 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:38,820 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:38,822 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:13:38,832 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:38,834 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:13:38,846 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:38,848 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:13:38,949 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:38,972 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:38,986 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:38,991 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:38,994 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:13:39,007 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:39,009 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:13:39,014 - main - INFO - SSE请求认证成功
+2025-09-19 09:13:39,015 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:14:04,012 - main - INFO - SSE请求认证成功
+2025-09-19 09:14:04,019 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:14:04,716 - main - INFO - SSE请求认证成功
+2025-09-19 09:14:04,720 - main - INFO - SSE请求认证成功
+2025-09-19 09:14:04,724 - main - INFO - SSE请求认证成功
+2025-09-19 09:14:04,726 - main - INFO - SSE请求认证成功
+2025-09-19 09:14:04,727 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:14:04,730 - main - INFO - SSE请求认证成功
+2025-09-19 09:14:04,731 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:14:04,733 - main - INFO - SSE请求认证成功
+2025-09-19 09:14:04,734 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:14:05,290 - main - INFO - SSE请求认证成功
+2025-09-19 09:14:05,299 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-19 09:14:05,340 - main - INFO - 访问健康检查接口 /health
+2025-09-19 09:14:05,346 - httpx - INFO - HTTP Request: GET http://apiserver/health "HTTP/1.1 200 OK"
+2025-09-19 09:15:33,383 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:33,391 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:15:34,107 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:34,117 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:34,127 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:34,138 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:34,149 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:15:34,159 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:34,162 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:15:34,166 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:34,167 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:15:36,021 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:36,027 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-19 09:15:36,046 - main - INFO - Token authentication successful
+2025-09-19 09:15:36,047 - main - INFO - 访问根路径 /
+2025-09-19 09:15:36,049 - httpx - INFO - HTTP Request: GET http://apiserver/ "HTTP/1.1 200 OK"
+2025-09-19 09:15:38,748 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,759 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,763 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,775 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,777 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,784 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,787 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,788 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:15:38,797 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,800 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:15:38,804 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,806 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:15:38,809 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,811 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,814 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:15:38,816 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:15:38,826 - main - INFO - SSE请求认证成功
+2025-09-19 09:15:38,828 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:15:45,057 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:15:45,085 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:15:48,210 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:15:48,224 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:15:48,584 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:15:48,591 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:16:35,384 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:35,394 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:16:36,510 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:36,519 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:36,529 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:36,535 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:36,538 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:16:36,542 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:36,545 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:16:36,549 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:36,551 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:16:38,797 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,799 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,811 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,812 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,823 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,825 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,833 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,834 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,840 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:16:38,841 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:16:38,852 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,853 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,855 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:16:38,855 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:16:38,863 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,865 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:16:38,869 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:38,871 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:16:39,596 - main - INFO - SSE请求认证成功
+2025-09-19 09:16:39,601 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-09-19 09:16:39,610 - main - INFO - Token authentication successful
+2025-09-19 09:16:39,611 - main - INFO - 向用户 Kilo Code 问好
+2025-09-19 09:16:39,612 - httpx - INFO - HTTP Request: GET http://apiserver/hello/Kilo%20Code "HTTP/1.1 200 OK"
+2025-09-19 09:17:38,733 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,759 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,761 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,772 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,773 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,778 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,779 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,780 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:17:38,784 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,786 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:17:38,800 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,802 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,803 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:17:38,804 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:17:38,809 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,811 - main - INFO - SSE请求认证成功
+2025-09-19 09:17:38,814 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:17:38,814 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:18:48,622 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:18:48,653 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:18:51,784 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:18:51,807 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:18:52,150 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:18:52,179 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:21:52,171 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:21:52,188 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:21:55,271 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:21:55,272 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:21:55,634 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:21:55,639 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:24:55,864 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:24:55,872 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:24:58,863 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:24:58,892 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:24:59,219 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:24:59,263 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:27:59,292 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:27:59,298 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:28:02,447 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:28:02,456 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:28:02,818 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:28:02,821 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:31:02,836 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:31:02,991 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:31:06,005 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:31:06,005 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:31:06,368 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:31:06,381 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:34:06,348 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:34:06,379 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:34:09,532 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:34:09,550 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:34:09,905 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:34:09,919 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:37:09,969 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:37:09,979 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:37:12,949 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:37:12,949 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:37:13,317 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:37:13,319 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:45:59,509 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:45:59,510 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:46:02,655 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:46:02,657 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:46:03,024 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:46:03,036 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:46:23,349 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:46:23,364 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:49:17,496 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:49:18,393 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:49:49,582 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:49:49,843 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:49:52,573 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:49:52,595 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:49:52,948 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:49:52,965 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:51:13,967 - main - INFO - SSE请求认证成功
+2025-09-19 09:51:14,146 - main - INFO - SSE请求认证成功
+2025-09-19 09:51:14,278 - main - INFO - SSE请求认证成功
+2025-09-19 09:51:14,418 - main - INFO - SSE请求认证成功
+2025-09-19 09:51:14,424 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 09:51:14,572 - main - INFO - SSE请求认证成功
+2025-09-19 09:51:14,574 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 09:51:14,698 - main - INFO - SSE请求认证成功
+2025-09-19 09:51:14,701 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 09:52:47,826 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:52:48,318 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:53:49,371 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:53:49,858 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:55:02,928 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:55:03,314 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:56:42,944 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:56:43,375 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:56:49,884 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 09:56:55,146 - main - INFO - SSE请求认证成功
+2025-09-19 09:58:33,357 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:58:33,370 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:58:36,307 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:58:36,331 - watchfiles.main - INFO - 1 change detected
+2025-09-19 09:58:36,687 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 09:58:36,699 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:02:27,367 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:02:28,277 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:03:03,210 - main - INFO - SSE请求认证成功
+2025-09-19 10:03:03,219 - main - INFO - SSE请求认证成功
+2025-09-19 10:04:48,261 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:06:19,700 - main - INFO - SSE请求认证成功
+2025-09-19 10:08:25,088 - main - INFO - SSE请求认证成功
+2025-09-19 10:08:44,605 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:11:37,255 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:11:37,662 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:11:49,273 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:11:49,771 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:15:47,103 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:15:47,499 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:16:05,606 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:16:06,499 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:18:16,239 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:18:16,248 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:18:19,426 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:18:19,442 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:18:19,787 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:18:19,819 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:18:36,922 - main - INFO - SSE请求认证成功
+2025-09-19 10:18:37,095 - main - INFO - SSE请求认证成功
+2025-09-19 10:18:37,393 - main - INFO - SSE请求认证成功
+2025-09-19 10:18:37,573 - main - INFO - SSE请求认证成功
+2025-09-19 10:18:37,576 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 10:18:37,717 - main - INFO - SSE请求认证成功
+2025-09-19 10:18:37,720 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-09-19 10:18:37,897 - main - INFO - SSE请求认证成功
+2025-09-19 10:18:37,900 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest
+2025-09-19 10:18:50,485 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:18:51,052 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:20:38,427 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:20:38,797 - main - WARNING - SSE请求缺少Authorization头
+2025-09-19 10:26:56,085 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:26:56,107 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:26:59,233 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:26:59,272 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:26:59,601 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:26:59,639 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:30:11,657 - main - INFO - 访问健康检查接口 /health
+2025-09-19 10:30:14,027 - main - INFO - SSE请求认证成功
+2025-09-19 10:30:38,796 - main - INFO - SSE请求认证成功
+2025-09-19 10:35:52,682 - main - INFO - SSE请求认证成功
+2025-09-19 10:35:52,805 - main - INFO - SSE请求认证成功
+2025-09-19 10:35:52,898 - main - INFO - SSE请求认证成功
+2025-09-19 10:35:53,139 - main - INFO - SSE请求认证成功
+2025-09-19 10:35:53,144 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-09-19 10:40:35,822 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:40:35,837 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:40:39,043 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:40:39,043 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:40:39,402 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:40:39,417 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:40:43,425 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:40:43,436 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:42:11,211 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:42:11,224 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:42:43,988 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:42:43,992 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:42:47,003 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 10:42:47,009 - watchfiles.main - INFO - 3 changes detected
+2025-09-19 10:42:48,015 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 10:42:48,037 - watchfiles.main - INFO - 10 changes detected
+2025-09-19 10:43:05,812 - main - INFO - SSE请求认证成功
+2025-09-19 10:43:06,200 - main - INFO - SSE请求认证成功
+2025-09-19 10:43:06,273 - main - INFO - SSE请求认证成功
+2025-09-19 10:43:47,006 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:43:47,012 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:43:50,266 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:43:50,298 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:43:50,636 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:43:50,667 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:44:01,561 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:44:01,619 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:44:23,035 - main - INFO - SSE请求认证成功
+2025-09-19 10:44:23,392 - main - INFO - SSE请求认证成功
+2025-09-19 10:44:23,528 - main - INFO - SSE请求认证成功
+2025-09-19 10:45:25,389 - main - INFO - SSE请求认证成功
+2025-09-19 10:45:25,731 - main - INFO - SSE请求认证成功
+2025-09-19 10:45:25,796 - main - INFO - SSE请求认证成功
+2025-09-19 10:46:39,029 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:46:39,072 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:47:29,665 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:47:29,675 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:47:32,806 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:47:32,811 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:47:33,177 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:47:33,177 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:47:44,600 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:47:44,608 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:48:52,734 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:48:52,755 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:49:42,845 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:49:42,849 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:49:43,227 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:49:43,262 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:51:16,981 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:51:17,039 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:51:22,076 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:51:22,123 - watchfiles.main - INFO - 1 change detected
+2025-09-19 10:51:23,096 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:51:23,126 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:52:16,297 - watchfiles.main - INFO - 2 changes detected
+2025-09-19 10:52:16,353 - watchfiles.main - INFO - 2 changes detected
+>>>>>>> 5e0f4fbeee0c4a5da8b4a726c4a2b9cad03b867d
